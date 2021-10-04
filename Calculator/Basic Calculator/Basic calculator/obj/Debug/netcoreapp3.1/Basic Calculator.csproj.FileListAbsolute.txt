@@ -1,0 +1,13 @@
+C:\Users\sam\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Basic Calculator.exe
+C:\Users\sam\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Basic Calculator.deps.json
+C:\Users\sam\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Basic Calculator.runtimeconfig.json
+C:\Users\sam\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Basic Calculator.runtimeconfig.dev.json
+C:\Users\sam\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Basic Calculator.dll
+C:\Users\sam\source\repos\Week2\Week2\bin\Debug\netcoreapp3.1\Basic Calculator.pdb
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.AssemblyInfo.cs
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.dll
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.pdb
+C:\Users\sam\source\repos\Week2\Week2\obj\Debug\netcoreapp3.1\Basic Calculator.genruntimeconfig.cache
