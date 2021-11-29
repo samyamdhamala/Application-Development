@@ -1,0 +1,10 @@
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\bin\Debug\FormWorkshop.exe.config
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\bin\Debug\FormWorkshop.exe
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\bin\Debug\FormWorkshop.pdb
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.csproj.AssemblyReference.cache
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.Form1.resources
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.Properties.Resources.resources
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.csproj.GenerateResource.cache
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.exe
+C:\Users\sam\Documents\3rd Year\Application Development\FormWorkshop\obj\Debug\FormWorkshop.pdb

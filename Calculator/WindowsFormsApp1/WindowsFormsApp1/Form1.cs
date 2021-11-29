@@ -59,5 +59,14 @@ namespace WindowsFormsApp1
             textBox3.Text = result.ToString();
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+
+        }
     }
+
 }

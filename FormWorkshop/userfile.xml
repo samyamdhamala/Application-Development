@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfUserDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserDetails>
+    <Name>Pratik</Name>
+    <Address>dgffgfd</Address>
+    <DOB>2021-11-29T00:00:00</DOB>
+    <PhoneNumber>9876543</PhoneNumber>
+    <Username>pra</Username>
+    <Password>123</Password>
+  </UserDetails>
+</ArrayOfUserDetails>

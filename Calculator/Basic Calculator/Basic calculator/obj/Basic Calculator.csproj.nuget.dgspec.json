@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sam\\source\\repos\\Week2\\Week2\\Basic Calculator.csproj": {}
+    "C:\\Users\\sam\\Documents\\3rd Year\\Application Development\\Calculator\\Basic Calculator\\Basic calculator\\Basic Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sam\\source\\repos\\Week2\\Week2\\Basic Calculator.csproj": {
+    "C:\\Users\\sam\\Documents\\3rd Year\\Application Development\\Calculator\\Basic Calculator\\Basic calculator\\Basic Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sam\\source\\repos\\Week2\\Week2\\Basic Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\sam\\Documents\\3rd Year\\Application Development\\Calculator\\Basic Calculator\\Basic calculator\\Basic Calculator.csproj",
         "projectName": "Basic Calculator",
-        "projectPath": "C:\\Users\\sam\\source\\repos\\Week2\\Week2\\Basic Calculator.csproj",
+        "projectPath": "C:\\Users\\sam\\Documents\\3rd Year\\Application Development\\Calculator\\Basic Calculator\\Basic calculator\\Basic Calculator.csproj",
         "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sam\\source\\repos\\Week2\\Week2\\obj\\",
+        "outputPath": "C:\\Users\\sam\\Documents\\3rd Year\\Application Development\\Calculator\\Basic Calculator\\Basic calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sam\\AppData\\Roaming\\NuGet\\NuGet.Config",

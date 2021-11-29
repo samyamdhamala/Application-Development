@@ -8,3 +8,13 @@ C:\Users\sam\Documents\3rd Year\Application Development\week2\WindowsFormsApp1\W
 C:\Users\sam\Documents\3rd Year\Application Development\week2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\sam\Documents\3rd Year\Application Development\week2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\sam\Documents\3rd Year\Application Development\week2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sam\Documents\3rd Year\Application Development\Calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb

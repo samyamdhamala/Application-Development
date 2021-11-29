@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfEmployeeDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeDetails>
+    <EmployeeID>1234</EmployeeID>
+    <Name>Samyam</Name>
+    <Designation>QA</Designation>
+    <Department>dfdsf</Department>
+    <Salary>12345</Salary>
+    <JoinDate>2001-11-27T00:00:00</JoinDate>
+    <Address>ssad</Address>
+    <ContactNumber>232939</ContactNumber>
+    <MaritalStatus>Single</MaritalStatus>
+    <Age>19</Age>
+  </EmployeeDetails>
+</ArrayOfEmployeeDetails>
